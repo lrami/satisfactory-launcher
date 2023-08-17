@@ -1,0 +1,6 @@
+config.json
+*.exe
+*.zip
+/dist
+/dist/*
+/dist/**/*
